@@ -33,3 +33,4 @@
 
 1. Variable, String
 2. Data type
+3. Conditional, Logical operators
