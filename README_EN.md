@@ -36,3 +36,4 @@
 3. Conditional, Logical operators
 4. Randomization, List type
 5. Loop
+6. Function
