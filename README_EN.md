@@ -38,3 +38,4 @@
 5. Loop
 6. Function
 7. Overall review
+8. Function parameter
