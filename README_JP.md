@@ -4,7 +4,7 @@
 
 ##### [Click here for English version](README_EN.md)
 
-## - Index -
+## - 目次 -
 
 1. 概要
 2. Project 目標
@@ -39,3 +39,4 @@
 6. 関数
 7. 全体内容整理
 8. 関数媒介変数
+9. ディクショナリ

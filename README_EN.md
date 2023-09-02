@@ -16,7 +16,7 @@
 
 - Project title : 100daysofccode_python
 - Reference URL : https://www.udemy.com/course/100-days-of-code
-- Period : 2023.08.25 - in progress
+- Period : Aug 25 2023 - in progress
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </br>
@@ -39,3 +39,4 @@
 6. Function
 7. Overall review
 8. Function parameter
+9. Dictionary
