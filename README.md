@@ -51,3 +51,4 @@
 18. GUI
 19. 좌표
 20. Snake game-1
+21. Snake game-2
