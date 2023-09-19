@@ -55,4 +55,5 @@
 22. Pong
 23. Turtle Crossing
 24. Data records on files
-25. Pandas-1
+25. Pandas
+26. List & Dictionary Comprehension
