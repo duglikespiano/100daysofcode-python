@@ -48,7 +48,7 @@
 15. 전체내용정리
 16. 객체지향프로그래밍
 17. 객체지향프로그래밍심화
-18. GUI
+18. Turtle
 19. 좌표
 20. Snake game-1
 21. Snake game-2
@@ -57,3 +57,4 @@
 24. Data records on files
 25. Pandas
 26. List & Dictionary Comprehension
+27. Tkinter

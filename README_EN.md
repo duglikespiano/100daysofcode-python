@@ -48,7 +48,7 @@
 15. Overall review
 16. Object Oriented Programming
 17. Object Oriented Programming Advanced
-18. GUI
+18. Turtle
 19. Coordinate
 20. Snake game-1
 21. Snake game-2
@@ -57,3 +57,4 @@
 24. Data records on files
 25. Pandas
 26. List & Dictionary Comprehension
+27. Tkinter

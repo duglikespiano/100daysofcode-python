@@ -48,7 +48,7 @@
 15. 全体内容整理
 16. オブジェクト指向プログラミング
 17. オブジェクト指向プログラミング深化
-18. GUI
+18. Turtle
 19. 座標
 20. Snake game-1
 21. Snake game-2
@@ -57,3 +57,4 @@
 24. Data records on files
 25. Pandas
 26. List & Dictionary Comprehension
+27. Tkinter
