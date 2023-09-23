@@ -58,3 +58,6 @@
 25. Pandas
 26. List & Dictionary Comprehension
 27. Tkinter
+28. Dynamic typing
+29. Overall review
+30. Error handling, JSON
