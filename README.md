@@ -67,3 +67,4 @@
 34. API with parameters
 35. API keys, Environment variables
 36. Overall review
+37. API with POST, PUT, DELETE methods
