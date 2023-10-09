@@ -73,4 +73,7 @@
 40. Overall review
 41. Simple HTML
 42. Simple HTML
-43. CSS
+43. Basic CSS
+44. Intermediate CSS
+45. Web Scraping
+46. Overall review
