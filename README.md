@@ -86,3 +86,4 @@
 53. Overall review
 54. Flask
 55. SSR with Flask
+56. Web templates
