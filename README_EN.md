@@ -87,3 +87,4 @@
 54. Flask
 55. SSR with Flask
 56. Web templates
+57. Jinja
