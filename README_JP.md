@@ -88,3 +88,4 @@
 55. SSR with Flask
 56. Web templates
 57. Jinja
+58. Bootstrap
