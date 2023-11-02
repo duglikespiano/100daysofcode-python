@@ -1,3 +1,5 @@
 /.vscode
 *__pycache__
 *info.json
+.gitignore
+.DS_Store
