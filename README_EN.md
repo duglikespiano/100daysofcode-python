@@ -16,7 +16,7 @@
 
 - Project title : 100daysofccode_python
 - Reference URL : https://www.udemy.com/course/100-days-of-code
-- Period : Aug 25 2023 - in progress
+- Period : Aug 25 2023 - Nov 3 2023(1st temporory stop, Finished to Day70)
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </br>

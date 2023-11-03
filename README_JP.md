@@ -16,7 +16,7 @@
 
 - Project タイトル: 100daysofccode_python
 - 関連 URL : https://www.udemy.com/course/100-days-of-code
-- 期間 : 2023.08.25 - 進行中
+- 期間 : 2023.08.25 - 2023.11.03(一次臨時中断、 Day70 まで完了)
 - 技術スタック : </br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </br>

@@ -15,8 +15,8 @@
 ### 1. 개요
 
 - 프로젝트명 : 100daysofccode_python
-- 참고URL : https://www.udemy.com/course/100-days-of-code
-- 기간 : 2023.08.25 - 진행 중
+- 관련URL : https://www.udemy.com/course/100-days-of-code
+- 기간 : 2023.08.25 - 2023.11.03(1차 임시중단, Day70까지 완료)
 - 기술스택 : </br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </br>
